@@ -1,0 +1,4 @@
+﻿modelo de embeddings,Recall@1,Recall@3
+all-MiniLM-L6-v2,71.4%,92.9%
+paraphrase-multilingual-MiniLM-L12-v2,71.4%,96.4%
+intfloat/multilingual-e5-small,96.4%,100.0%

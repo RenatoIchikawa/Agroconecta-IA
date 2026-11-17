@@ -1,0 +1,17 @@
+[
+  {"pergunta": "Quem gera a própria energia solar pode acumular créditos na conta?", "tipo": "respondivel", "id_documento_correto": 2},
+  {"pergunta": "Qual a potência máxima da minigeração distribuída?", "tipo": "respondivel", "id_documento_correto": 1},
+  {"pergunta": "Aquicultor também tem desconto na tarifa de energia?", "tipo": "respondivel", "id_documento_correto": 4},
+  {"pergunta": "Que linha do Pronaf financia energia renovável?", "tipo": "respondivel", "id_documento_correto": 10},
+  {"pergunta": "Como os dejetos de suínos podem virar energia?", "tipo": "respondivel", "id_documento_correto": 13},
+  {"pergunta": "Que embalagem usar para não machucar as hortaliças no transporte?", "tipo": "respondivel", "id_documento_correto": 18},
+  {"pergunta": "Como vender minha produção para as escolas do município?", "tipo": "respondivel", "id_documento_correto": 21},
+  {"pergunta": "O que é o tanque de expansão direta do leite?", "tipo": "respondivel", "id_documento_correto": 24},
+  {"pergunta": "O programa Luz para Todos atende a Amazônia?", "tipo": "respondivel", "id_documento_correto": 8},
+  {"pergunta": "Qual adubo usar na plantação de feijão?", "tipo": "nao_consta", "id_documento_correto": null},
+  {"pergunta": "Como vacinar o gado contra febre aftosa?", "tipo": "nao_consta", "id_documento_correto": null},
+  {"pergunta": "Qual o preço da saca de café hoje?", "tipo": "nao_consta", "id_documento_correto": null},
+  {"pergunta": "Como regularizar a escritura da minha terra?", "tipo": "nao_consta", "id_documento_correto": null},
+  {"pergunta": "Qual a melhor marca de trator pequeno?", "tipo": "nao_consta", "id_documento_correto": null},
+  {"pergunta": "Quanto rende um hectare de soja?", "tipo": "nao_consta", "id_documento_correto": null}
+]

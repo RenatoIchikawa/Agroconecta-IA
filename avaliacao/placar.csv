@@ -1,0 +1,4 @@
+﻿config,acurácia geral,acerto nas respondíveis,recusa correta (não consta),taxa de alucinação,recusa indevida,JSON válido,citação correta
+A. LLM sem contexto,0.237,0.179,0.400,0.711,0.071,,
+B. RAG simples,0.579,0.464,0.900,0.132,0.393,,
+C. Agente RAG,0.868,0.821,1.000,0.105,0.036,1.000,0.926

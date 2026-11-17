@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "tema": "energia",
+    "titulo": "Micro e minigeração distribuída",
+    "texto": "A Lei 14.300/2022 instituiu o marco legal da microgeração e minigeração distribuída. Microgeração é a central geradora de energia renovável com potência instalada de até 75 kW, conectada à rede da distribuidora pela unidade consumidora. Minigeração é a central com potência acima de 75 kW e até 5 MW, conforme os limites definidos na lei. Um produtor rural pode instalar painéis solares na propriedade como microgeração.",
+    "fonte": "Lei nº 14.300, de 6 de janeiro de 2022 (marco legal da geração distribuída)",
+    "url": "https://legis.senado.leg.br/norma/35420157/publicacao/35420471",
+    "licenca": "Ato oficial – domínio público (Lei 9.610/98, art. 8º, IV)"
+  },
+  {
+    "id": 2,
+    "tema": "energia",
+    "titulo": "Créditos de energia (SCEE)",
+    "texto": "No Sistema de Compensação de Energia Elétrica (SCEE) da Lei 14.300/2022, a energia excedente que o produtor injeta na rede vira crédito em kWh, que abate o consumo nas faturas seguintes. Os créditos de energia têm validade de 60 meses (5 anos). Depois desse prazo, os créditos não utilizados expiram.",
+    "fonte": "Lei nº 14.300, de 6 de janeiro de 2022 (marco legal da geração distribuída)",
+    "url": "https://legis.senado.leg.br/norma/35420157/publicacao/35420471",
+    "licenca": "Ato oficial – domínio público (Lei 9.610/98, art. 8º, IV)"
+  },
+  {
+    "id": 3,
+    "tema": "energia",
+    "titulo": "Transição do Fio B na geração distribuída",
+    "texto": "A Lei 14.300/2022 criou uma regra de transição para quem pediu a conexão de micro ou minigeração depois de janeiro de 2023: a energia compensada passa a pagar gradualmente a componente Fio B da tarifa de distribuição (TUSD), em percentuais que sobem ano a ano. Por isso, a economia de um sistema solar novo é um pouco menor do que a dos sistemas instalados antes da lei, e o cálculo de retorno do investimento deve considerar essa cobrança.",
+    "fonte": "Lei nº 14.300, de 6 de janeiro de 2022 (art. 27 – regra de transição)",
+    "url": "https://legis.senado.leg.br/norma/35420157/publicacao/35420471",
+    "licenca": "Ato oficial – domínio público (Lei 9.610/98, art. 8º, IV)"
+  },
+  {
+    "id": 4,
+    "tema": "energia",
+    "titulo": "Desconto na tarifa de energia para irrigação e aquicultura",
+    "texto": "A Resolução Normativa ANEEL nº 1.000/2021 prevê desconto na tarifa de energia elétrica para as atividades de irrigação e aquicultura. O desconto vale para a energia consumida em um período diário de 8 horas e 30 minutos, em horário noturno definido com a distribuidora. Os percentuais de desconto variam conforme a região e o grupo tarifário do consumidor rural.",
+    "fonte": "ANEEL – Resolução Normativa nº 1.000/2021; CNA – Alteração no desconto da tarifa de energia elétrica para irrigação",
+    "url": "https://cnabrasil.org.br/publicacoes/alteracao-no-desconto-da-tarifa-de-energia-eletrica-para-irrigacao-na-area-atendida-pela-sudene",
+    "licenca": "Ato oficial (ANEEL) – domínio público; publicação CNA parafraseada com citação"
+  },
+  {
+    "id": 5,
+    "tema": "energia",
+    "titulo": "Percentuais do desconto para irrigantes (exemplo: Pernambuco)",
+    "texto": "Na área atendida pela SUDENE, como em Pernambuco, os irrigantes rurais têm desconto de 73% na tarifa para consumidores do Grupo B (baixa tensão) e de 90% para consumidores do Grupo A (alta tensão), aplicado sobre a TUSD e a TE no horário com desconto, conforme a Resolução Normativa ANEEL nº 1.000/2021.",
+    "fonte": "Folha de Pernambuco – Irrigantes de Pernambuco ganham mais liberdade para usar energia com desconto",
+    "url": "https://www.folhape.com.br/economia/irrigantes-de-pernambuco-ganham-mais-liberdade-para-usar-energia-com/505088/",
+    "licenca": "Notícia jornalística – parafraseada com citação (uso informativo)"
+  },
+  {
+    "id": 6,
+    "tema": "energia",
+    "titulo": "Requisitos para receber o desconto de irrigação",
+    "texto": "Para receber o desconto tarifário de irrigação e aquicultura, o produtor precisa apresentar à distribuidora a licença ambiental e a outorga de uso de recursos hídricos, quando essas forem exigidas, e formalizar com a distribuidora o horário em que o desconto será aplicado.",
+    "fonte": "CNA Brasil – Sistema Famato informa novas regras para desconto na tarifa de energia elétrica para irrigação e aquicultura",
+    "url": "https://cnabrasil.org.br/noticias/sistema-famato-informa-novas-regras-para-desconto-na-tarifa-de-energia-eletrica-para-irrigacao-e-aquicultura",
+    "licenca": "Publicação CNA – parafraseada com citação"
+  },
+  {
+    "id": 7,
+    "tema": "energia",
+    "titulo": "Flexibilização dos horários do desconto de irrigação",
+    "texto": "A Lei 15.235/2025 e a Portaria Normativa MME nº 137/2026 flexibilizaram os horários do desconto tarifário para irrigantes e aquicultores. O produtor pode escolher usar a energia com desconto de forma contínua ou fracionada ao longo do dia, desde que respeite o horário de ponta, entre 17h e 21h30, quando o desconto não se aplica.",
+    "fonte": "Ministério de Minas e Energia – Portaria Normativa MME nº 137/2026; Folha de Pernambuco",
+    "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-normativa-mme-n-137-2026.pdf",
+    "licenca": "Ato oficial – domínio público (Lei 9.610/98, art. 8º, IV)"
+  },
+  {
+    "id": 8,
+    "tema": "energia",
+    "titulo": "Programa Luz para Todos",
+    "texto": "O Programa Luz para Todos, regulamentado pelo Decreto 11.628/2023, busca levar energia elétrica à população do meio rural e às populações de regiões remotas da Amazônia Legal que ainda não têm acesso ao serviço público de distribuição. O programa é coordenado pelo Ministério de Minas e Energia (MME) e prioriza beneficiários definidos no decreto.",
+    "fonte": "Decreto nº 11.628, de 4 de agosto de 2023 (Programa Luz para Todos)",
+    "url": "https://www2.camara.leg.br/legin/fed/decret/2023/decreto-11628-4-agosto-2023-794516-normaatualizada-pe.html",
+    "licenca": "Ato oficial – domínio público (Lei 9.610/98, art. 8º, IV)"
+  },
+  {
+    "id": 9,
+    "tema": "energia",
+    "titulo": "Quem executa o Luz para Todos",
+    "texto": "O Decreto 12.964/2026 alterou o Programa Luz para Todos: as concessionárias e permissionárias de distribuição de energia elétrica passaram a ser os agentes executores do programa. A família rural sem energia elétrica deve procurar a distribuidora da sua região para pedir o atendimento.",
+    "fonte": "Decreto nº 12.964, de 8 de maio de 2026 (altera o Decreto 11.628/2023)",
+    "url": "https://legis.senado.leg.br/norma/43275192/publicacao/43277409",
+    "licenca": "Ato oficial – domínio público (Lei 9.610/98, art. 8º, IV)"
+  },
+  {
+    "id": 10,
+    "tema": "energia",
+    "titulo": "Pronaf Bioeconomia – crédito para energia renovável",
+    "texto": "A linha Pronaf Bioeconomia financia agricultores familiares que querem investir em tecnologias de energia renovável, como sistemas de energia solar para consumo próprio, além de tecnologias ambientais, armazenamento de água e pequenos aproveitamentos hidroenergéticos.",
+    "fonte": "Ministério do Desenvolvimento Agrário (MDA) – Resumo das linhas do Pronaf",
+    "url": "https://www.gov.br/mda/pt-br/acesso-a-informacao/acoes-e-programas/programas-projetos-acoes-obras-e-atividades/plano-safra-da-agricultura-familiar/documentos/Pronaf20262027ResumoLinhas.pdf",
+    "licenca": "Publicação governamental – parafraseada com citação"
+  },
+  {
+    "id": 11,
+    "tema": "energia",
+    "titulo": "Quem pode acessar o Pronaf",
+    "texto": "Para contratar crédito do Pronaf, o agricultor familiar precisa ter a DAP (Declaração de Aptidão ao Pronaf) ou o CAF (Cadastro Nacional da Agricultura Familiar). As taxas de juros, limites de crédito e prazos mudam a cada Plano Safra, por isso o produtor deve confirmar as condições vigentes no banco ou no MDA antes de contratar.",
+    "fonte": "Ministério do Desenvolvimento Agrário (MDA) – Resumo das linhas do Pronaf",
+    "url": "https://www.gov.br/mda/pt-br/acesso-a-informacao/acoes-e-programas/programas-projetos-acoes-obras-e-atividades/plano-safra-da-agricultura-familiar/documentos/Pronaf20262027ResumoLinhas.pdf",
+    "licenca": "Publicação governamental – parafraseada com citação"
+  },
+  {
+    "id": 12,
+    "tema": "energia",
+    "titulo": "Biodigestor em pequenos estabelecimentos",
+    "texto": "Biodigestores transformam os dejetos de animais em biogás, que pode substituir o gás de cozinha (GLP) na propriedade, e em digestato, que pode ser usado como adubo. A Embrapa Agroenergia avaliou um biodigestor instalado em uma pequena propriedade leiteira em Luziânia (GO) e concluiu que a tecnologia gera renda pela economia de GLP e reduz o impacto ambiental dos dejetos.",
+    "fonte": "Embrapa Agroenergia – Documentos 55: Biodigestor para pequenos estabelecimentos agropecuários (2024)",
+    "url": "https://ainfo.cnptia.embrapa.br/digital/bitstream/doc/1170663/1/DOC55-Biodigestor.pdf",
+    "licenca": "Embrapa – publicação de acesso aberto; parafraseada com citação"
+  },
+  {
+    "id": 13,
+    "tema": "energia",
+    "titulo": "Escala do biodigestor",
+    "texto": "A biodigestão pode ser aplicada aos resíduos de poucos animais, como alguns suínos ou bovinos de uma pequena propriedade, até milhares de animais em grandes propriedades. Deixar os dejetos sem tratamento desperdiça energia e pode poluir rios e nascentes.",
+    "fonte": "Embrapa Agroenergia – Documentos 55: Biodigestor para pequenos estabelecimentos agropecuários (2024)",
+    "url": "https://ainfo.cnptia.embrapa.br/digital/bitstream/doc/1170663/1/DOC55-Biodigestor.pdf",
+    "licenca": "Embrapa – publicação de acesso aberto; parafraseada com citação"
+  },
+  {
+    "id": 14,
+    "tema": "energia",
+    "titulo": "Bombeamento de água com energia solar",
+    "texto": "Na propriedade rural, pressurizar e movimentar água (bombeamento e irrigação) é uma das maiores demandas de energia. Para bombeamento com energia solar fotovoltaica, são indicados dois tipos de bomba: de pistão e de diafragma, ambas com rendimento que varia conforme a altura de elevação e a vazão.",
+    "fonte": "Embrapa Clima Temperado – Documentos 443 (Reisser Júnior): energia fotovoltaica na propriedade rural familiar",
+    "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1081365/1/CarlosReisserDocumento443web.pdf",
+    "licenca": "Embrapa – publicação de acesso aberto; parafraseada com citação"
+  },
+  {
+    "id": 15,
+    "tema": "energia",
+    "titulo": "Irrigador solar de baixo custo",
+    "texto": "A Embrapa Instrumentação desenvolveu um irrigador solar de baixo custo que funciona sem energia elétrica: um gotejador automático feito com material reciclável. O reservatório é uma garrafa PET com metade do volume de água e uma bexiga preta dentro, aquecida pelo sol. É indicado para hortas e pequenas lavouras.",
+    "fonte": "Embrapa Instrumentação – Documentos 58: Irrigador solar (2016)",
+    "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1057985/1/DOC5820161.pdf",
+    "licenca": "Embrapa – publicação de acesso aberto; parafraseada com citação"
+  },
+  {
+    "id": 16,
+    "tema": "mobilidade",
+    "titulo": "Danos mecânicos e perdas pós-colheita",
+    "texto": "Os danos mecânicos (batidas, cortes, amassados e compressão) durante a colheita, a embalagem e o transporte são a principal causa de perdas pós-colheita de hortaliças. O produto machucado fica mais suscetível a doenças e podridões causadas por fungos e bactérias.",
+    "fonte": "Embrapa Hortaliças – Luengo et al. (2001), Redução de perdas pós-colheita em hortaliças",
+    "url": "https://www.alice.cnptia.embrapa.br/alice/bitstream/doc/770263/1/Reducao-de-perdas-pos-colheita.pdf",
+    "licenca": "Embrapa – publicação de acesso aberto; parafraseada com citação"
+  },
+  {
+    "id": 17,
+    "tema": "mobilidade",
+    "titulo": "Problemas da caixa K de madeira",
+    "texto": "A caixa K de madeira, muito usada no transporte de tomate, machuca o produto: tem superfícies ásperas, abriga microrganismos causadores de doenças, é funda demais (o peso das camadas de cima esmaga as de baixo) e tem aberturas laterais cortantes. A Embrapa Hortaliças desenvolveu uma caixa plástica (Caixa Embrapa) que causou menos injúrias nos frutos do que a caixa K.",
+    "fonte": "Embrapa Hortaliças – Luengo et al. (2001), Redução de perdas pós-colheita em hortaliças",
+    "url": "https://www.alice.cnptia.embrapa.br/alice/bitstream/doc/770263/1/Reducao-de-perdas-pos-colheita.pdf",
+    "licenca": "Embrapa – publicação de acesso aberto; parafraseada com citação"
+  },
+  {
+    "id": 18,
+    "tema": "mobilidade",
+    "titulo": "Escolha da embalagem e manuseio",
+    "texto": "A escolha da embalagem de hortaliças deve considerar a quantidade de produto, o número de camadas e o material, para proteger o produto sem machucá-lo. O manuseio cuidadoso do produto é a forma mais eficaz e de menor custo para preservar a qualidade das hortaliças da colheita até o mercado.",
+    "fonte": "Embrapa Hortaliças – Luengo et al. (2001), Redução de perdas pós-colheita em hortaliças",
+    "url": "https://www.alice.cnptia.embrapa.br/alice/bitstream/doc/770263/1/Reducao-de-perdas-pos-colheita.pdf",
+    "licenca": "Embrapa – publicação de acesso aberto; parafraseada com citação"
+  },
+  {
+    "id": 19,
+    "tema": "mobilidade",
+    "titulo": "Colher e transportar nas horas mais frescas",
+    "texto": "A colheita de hortaliças deve ser feita preferencialmente nas horas mais frescas do dia, de manhã cedo. O calor acelera o metabolismo e a deterioração do produto e reduz sua vida útil. Depois da colheita, as hortaliças devem ser transportadas em condições que reduzam o aquecimento e o risco de contaminação.",
+    "fonte": "Embrapa – Moretti (2008), Boas práticas agrícolas e pós-colheita de hortaliças, em Colheita e Beneficiamento de Frutas e Hortaliças",
+    "url": "https://www.alice.cnptia.embrapa.br/alice/bitstream/doc/781337/1/morettiboaspraticas.pdf",
+    "licenca": "Embrapa – publicação de acesso aberto; parafraseada com citação"
+  },
+  {
+    "id": 20,
+    "tema": "mobilidade",
+    "titulo": "Venda para a alimentação escolar (PNAE)",
+    "texto": "Pelo artigo 14 da Lei 11.947/2009, no mínimo 30% dos recursos repassados pelo FNDE para o Programa Nacional de Alimentação Escolar (PNAE) devem ser usados na compra de alimentos diretamente da agricultura familiar. É um canal de escoamento da produção do pequeno produtor para as escolas do município.",
+    "fonte": "Lei nº 11.947, de 16 de junho de 2009 (art. 14)",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11947.htm",
+    "licenca": "Ato oficial – domínio público (Lei 9.610/98, art. 8º, IV)"
+  },
+  {
+    "id": 21,
+    "tema": "mobilidade",
+    "titulo": "Chamada pública do PNAE",
+    "texto": "A compra de alimentos da agricultura familiar para o PNAE é feita prioritariamente por chamada pública, sem necessidade de licitação. O produtor ou a cooperativa apresenta um projeto de venda à prefeitura ou à secretaria de educação. A Lei 14.660/2023 incluiu os grupos formais e informais de mulheres rurais entre os fornecedores priorizados.",
+    "fonte": "FNDE – Resolução sobre aquisição da agricultura familiar no PNAE; Lei nº 14.660/2023",
+    "url": "https://www.gov.br/fnde/pt-br/acesso-a-informacao/acoes-e-programas/programas/pnae/media-pnae/pareceres/Parecer_33_2023_CGCONSU.pdf",
+    "licenca": "Ato oficial – domínio público (Lei 9.610/98, art. 8º, IV)"
+  },
+  {
+    "id": 22,
+    "tema": "mobilidade",
+    "titulo": "Programa de Aquisição de Alimentos (PAA) – limites",
+    "texto": "O Programa de Aquisição de Alimentos (PAA), recriado pela Lei 14.628/2023, compra alimentos da agricultura familiar. Pelo Decreto 11.802/2023, cada unidade familiar pode vender até R$ 15 mil por ano nas modalidades compra com doação simultânea, compra direta e apoio à formação de estoques.",
+    "fonte": "Lei nº 14.628/2023 e Decreto nº 11.802/2023 (PAA)",
+    "url": "https://www2.camara.leg.br/legin/fed/decret/2023/decreto-11802-28-novembro-2023-795001-normaatualizada-pe.html",
+    "licenca": "Ato oficial – domínio público (Lei 9.610/98, art. 8º, IV)"
+  },
+  {
+    "id": 23,
+    "tema": "mobilidade",
+    "titulo": "PAA – compra institucional e PAA-Leite",
+    "texto": "No PAA, as modalidades compra institucional e PAA-Leite têm limite de R$ 30 mil por ano por unidade familiar (na compra institucional, por órgão comprador). A Lei 15.178/2025 determinou que as compras do PAA deem preferência a mulheres e jovens rurais, em percentuais definidos em regulamento.",
+    "fonte": "Decreto nº 11.802/2023 (PAA) e Lei nº 15.178/2025",
+    "url": "https://www2.camara.leg.br/legin/fed/decret/2023/decreto-11802-28-novembro-2023-795001-normaatualizada-pe.html",
+    "licenca": "Ato oficial – domínio público (Lei 9.610/98, art. 8º, IV)"
+  },
+  {
+    "id": 24,
+    "tema": "mobilidade",
+    "titulo": "Resfriamento do leite na propriedade",
+    "texto": "Pela Instrução Normativa MAPA nº 77/2018, o leite cru deve ser resfriado na propriedade em tanque de expansão direta, que leva o leite a 4 °C ou menos em no máximo três horas após a ordenha. Pequenos produtores podem usar um tanque de uso comunitário, que é um tanque de expansão direta usado de forma coletiva por vários produtores.",
+    "fonte": "MAPA – Instrução Normativa nº 77, de 26 de novembro de 2018",
+    "url": "https://wikisda.agricultura.gov.br/dipoa_baselegal/in_77-2018_criterios_produção_coleta_transporte_leite.pdf",
+    "licenca": "Ato oficial – domínio público (Lei 9.610/98, art. 8º, IV)"
+  },
+  {
+    "id": 25,
+    "tema": "mobilidade",
+    "titulo": "Temperatura do leite na chegada ao laticínio",
+    "texto": "No transporte do leite cru refrigerado até o laticínio, o leite deve chegar à plataforma de recebimento a no máximo 7 °C; excepcionalmente, aceita-se até 9 °C. As regras de recebimento do leite pelo estabelecimento estão nas Instruções Normativas MAPA nº 76 e 77 de 2018, em vigor desde 1º de junho de 2019.",
+    "fonte": "Secretaria de Agricultura e Abastecimento de SP – IEA, Análises e Indicadores do Agronegócio nº 50/2019 (IN 76 e 77)",
+    "url": "https://iea.agricultura.sp.gov.br/ftpiea/AIA/AIA-50-2019.pdf",
+    "licenca": "Publicação governamental – parafraseada com citação"
+  }
+]
