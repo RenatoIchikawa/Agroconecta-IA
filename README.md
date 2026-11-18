@@ -172,7 +172,7 @@ ollama pull llama3.2:1b
 ```
 
 ```bash
-python -m venv .venv
+python -m venv .venv ou py -m venv .venv
 ```
 
 ```bash
@@ -238,3 +238,5 @@ O mesmo `llama3.2:1b` vai de **24% de acurácia e 71% de alucinação** (sozinho
 3. o JSON e a citação montados pelo código, nunca pelo modelo.
 
 Tudo roda localmente, sem custo de API e sem dados pessoais saindo da máquina. Os próximos passos são a verificação de completude, um reranker e a comparação com `llama3.2:3b` e com LoRA.
+
+Link do vídeo: https://www.youtube.com/watch?v=cCrxNo4IpHo
