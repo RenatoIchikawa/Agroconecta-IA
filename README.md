@@ -239,4 +239,4 @@ O mesmo `llama3.2:1b` vai de **24% de acurácia e 71% de alucinação** (sozinho
 
 Tudo roda localmente, sem custo de API e sem dados pessoais saindo da máquina. Os próximos passos são a verificação de completude, um reranker e a comparação com `llama3.2:3b` e com LoRA.
 
-Link do vídeo: https://www.youtube.com/watch?v=cCrxNo4IpHo
+Link do vídeo: https://www.youtube.com/watch?v=oB_XqFV63K4
